@@ -1,0 +1,13 @@
+what is JSX ?
+--------------
+Javascript XML  ( JSX) - entension to the javascript language syntax
+
+Write XMl like code for elements and components
+
+JSX tags have tagname attributtes and children
+
+JSX is not necessary to write react components
+
+JSX makes out our code simpler and elegant
+
+JSX ultimately transpiles  into pure Javascript which is understood by the browser
